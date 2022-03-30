@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../daw/.idea/daw.iml" filepath="$PROJECT_DIR$/../daw/.idea/daw.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ddi.iml" filepath="$PROJECT_DIR$/.idea/ddi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gdv/.idea/gdv.iml" filepath="$PROJECT_DIR$/../gdv/.idea/gdv.iml" />
       <module fileurl="file://$PROJECT_DIR$/../strava_daten/.idea/strava_daten.iml" filepath="$PROJECT_DIR$/../strava_daten/.idea/strava_daten.iml" />
     </modules>
   </component>
