@@ -8,5 +8,6 @@
     <orderEntry type="module" module-name="strava_daten" />
     <orderEntry type="module" module-name="gdv" />
     <orderEntry type="module" module-name="smartclassroom" />
+    <orderEntry type="module" module-name="ala" />
   </component>
 </module>
